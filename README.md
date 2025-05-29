@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm Saurav Teli, a passionate MERN Stack Developer and Computer Science Enthusiast from India !</p>
+<p align="left">I'm Saurav Teli, a passionate Full Stack Developer and Computer Science Enthusiast from India !</p>
 
 ###
 
