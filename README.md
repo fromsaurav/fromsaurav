@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👨‍💻 Expertise in MERN Stack development and keen to providing efficient solutions ...<br>🔭 Polishing my development skills these days ...<br>🌱Exploring new domains and learning always ...<br>🤝 Would love to collaborate with you anytime help with...</p>
+<p align="left">👨‍💻 Expertise in MERN Stack development and keen to providing efficient solutions ...<br>🔭 Polishing my development skills these days ...<br>🌱Exploring new domains and learning always ...<br>🤝 Would love to collaborate with you anytime...</p>
 
 
 
