@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Yo sup?</h1>
+<h1 align="left">Yo, sup?</h1>
 
 ###
 
