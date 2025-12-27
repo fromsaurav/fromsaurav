@@ -2,9 +2,6 @@
 
 <h1 align="left">Yo, sup?</h1>
 
-###
-
-<h2 align="left">About me</h2>
 
 ###
 
