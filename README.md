@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left"> Following prometheus metrics of systems keenly these days...<br>Trespassing new domains...<br> Let's talk about distributed systems...<br>Learning Always...</p>
+<p align="left"> Monitoring prometheus metrics of backend systems these days...<br>Trespassing new domains...<br> Let's talk about distributed systems...<br>Learning Always...</p>
 
 
 
