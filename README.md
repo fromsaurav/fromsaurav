@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left"> Expertise in Full Stack development and keen to providing efficient solutions ...<br> Polishing my development skills these days ...<br>Exploring new domains and learning always ...<br> Let's talk about distributed Systems...</p>
+<p align="left"> Following prometheus metrics of systems keenly these days...<br>Trespassing new domains...<br> Let's talk about distributed Systems...<br>Learning Always...</p>
 
 
 
