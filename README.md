@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👨‍💻 Expertise in Full Stack development and keen to providing efficient solutions ...<br>🔭 Polishing my development skills these days ...<br>🌱Exploring new domains and learning always ...<br>🤝 Would love to collaborate with you anytime...</p>
+<p align="left"> Expertise in Full Stack development and keen to providing efficient solutions ...<br> Polishing my development skills these days ...<br>Exploring new domains and learning always ...<br> Let's talk about distributed Systems...</p>
 
 
 
