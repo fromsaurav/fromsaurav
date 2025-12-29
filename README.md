@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left"> Monitoring prometheus metrics of backend systems these days...<br>Trespassing new domains...<br> Let's talk about distributed systems...<br>Learning Always...</p>
+<p align="left"> Monitoring prometheus metrics of backend systems in CNCF ecosystem these days...<br>Trespassing new domains...<br> Let's talk about distributed systems...<br>Learning Always...</p>
 
 
 
