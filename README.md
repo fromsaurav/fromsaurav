@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left"> Monitoring observability and shipping metrics in the CNCF ecosystem these days...<br>Trespassing domains...<br> Distributed Systems convos? I'm up!...<br>Learning...</p>
+<p align="left"> Backend & Infra...<br>Trespassing domains...<br> Distributed Systems convos? Up!...<br>Learning...</p>
 
 
 
